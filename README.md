@@ -14,5 +14,5 @@ Configurações do Phishing no Kali:
 * Vetor de ataque: Web Site Attack Vectors;
 * Método de ataque: Credential Harvester Attack Method;
 * Método de ataque: Site Cloner;
-* URL para clone: http://instagram.com
+* URL para clone: http://www.facebook.com/
 
